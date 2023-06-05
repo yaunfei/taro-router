@@ -1,9 +1,9 @@
 {
   "name": "@yaunfei/taro-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "taro 路由库",
-  "main": "dist/index.ts",
-  "module": "dist/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
